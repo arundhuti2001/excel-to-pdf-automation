@@ -2,7 +2,6 @@
 Automated PDF report generation from Excel and PDF inputs using Python, Pandas, ReportLab, and PyMuPDF.
 
 # Excel to PDF Automation
-
 ## Overview
 
 This project automates the generation of PDF reports using Excel datasets and fund factsheet PDFs. The solution reads client and portfolio information from Excel files, processes PDF documents, and generates customized output PDFs with dynamic overlays such as client details and report generation date.
